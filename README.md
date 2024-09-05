@@ -1,7 +1,25 @@
-  API Documentation
+
+  
+API Documentation
 
 API Documentation
 =================
+
+Command to start the server
+----------------------
+
+php artisan migrate
+
+php artisan key:generate
+
+php artisan db:seed
+
+php artisan serve
+
+Command to run the job
+----------------------
+php artisan emails:process
+
 
 Authentication
 --------------
